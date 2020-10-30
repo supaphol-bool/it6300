@@ -2,6 +2,11 @@
     <head>
         <title>Hello world IT</title>
     </head>
+    <style>
+div {
+    background-color: rgb(0, 191, 255);
+    color: rgb(255, 255, 255);
+</style>
     <body>
         <h1>Supaphol Kottom</h1>
         <p>Nickname : Babe</p>
@@ -19,4 +24,5 @@
             <li>เอออ ใครเห็นก็ว่าตาย โอ็.. ไม่ตาย? ตายดิถามได้</li>
         </ul>
     </body>
+}
 </html>
