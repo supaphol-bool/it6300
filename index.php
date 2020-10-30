@@ -3,10 +3,7 @@
         <title>Hello world IT</title>
     </head>
     <body>
-        <h1>My first Heading</h1>
-        <p>My First Paragraph</p>
-        <p>Firstname : Supaphol</p>
-        <p>lastname: Kottom</p>
+        <h1>Supaphol Kottom</h1>
         <p>Nickname : Babe</p>
         <img src="dog.jpg">
         <img src="cat.jpg">
