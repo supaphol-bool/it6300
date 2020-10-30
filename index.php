@@ -2,7 +2,8 @@
     <head>
         <title>Hello world IT</title>
     </head>
-    <body> bgcolor="#FFFFE6">
+    <style> bgcolor="#FFFFE6">
+    <body>
         <h1>Supaphol Kottom</h1>
         <p>Nickname : Babe</p>
         <img src="dog.jpg">
@@ -19,4 +20,5 @@
             <li>เอออ ใครเห็นก็ว่าตาย โอ็.. ไม่ตาย? ตายดิถามได้</li>
         </ul>
     </body>
+    </style>
 </html>
