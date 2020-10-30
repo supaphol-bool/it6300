@@ -2,7 +2,6 @@
     <head>
         <title>Hello world IT</title>
     </head>
-    <style> bgcolor="#FFFFE6">
     <body>
         <h1>Supaphol Kottom</h1>
         <p>Nickname : Babe</p>
@@ -20,5 +19,4 @@
             <li>เอออ ใครเห็นก็ว่าตาย โอ็.. ไม่ตาย? ตายดิถามได้</li>
         </ul>
     </body>
-    </style>
 </html>
