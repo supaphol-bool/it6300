@@ -8,7 +8,7 @@
         <p>Firstname : Supaphol</p>
         <p>lastname: Kottom</p>
         <p>Nickname : Babe</p>
-        <img src="cat.jpg">
+        <img src="snow.jpg">
         <img src="dog.jpg">
         <br>
         <a href='http://www.it.kmitl.ac.th'>This is a Link</a>
