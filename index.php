@@ -11,7 +11,8 @@
         <img src="dog.jpg">
         <img src="cat.jpg">
         <br>
-        <a href='http://www.it.kmitl.ac.th'>This is a Link</a>
+        <a href='https://www.i-moviehd.com/'>This is a Link</a>
+        <a href='https://www.w3schools.com/python/'>This is a Link</a>
         <h2>The unordered list</h2>
         <ul>
             <li>Google</li>
